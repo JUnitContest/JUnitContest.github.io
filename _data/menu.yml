@@ -1,0 +1,12 @@
+- name: About
+  url:
+  children:
+     - name: Competition
+       url: index
+     - name: Acknowledgements
+       url: /pages/acknowledgements
+     - name: Previous editions
+       url: /pages/previous
+
+- name: Infrastructure
+  url: https://github.com/JUnitContest/junitcontest

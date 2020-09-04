@@ -1,1 +1,12 @@
+title: JUnit Testing Tool Competition
+description: >-
+  JUnit Testing Tool Competition website
+url: https://junitcontest.github.io/
+baseurl: /
+
 theme: jekyll-theme-minimal
+
+exclude:
+ - README.md
+ - Gemfile.lock
+ - Gemfile
