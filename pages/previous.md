@@ -11,7 +11,7 @@ title: "Publications"
 
 Title:    Java Unit Testing Tool Competition - Eighth Round  
 Authors:  Xavier Devroey, Sebastiano Panichella, Alessio Gambi  
-URL:      https://doi.org/ 10.1145/3387940.3392265  
+URL:      https://doi.org/10.1145/3387940.3392265  
 appendix: [detailed results](https://github.com/JUnitContest/junitcontest/tree/master/publications/2020/)  
 
 Title:    EvoSuite at the SBST 2020 tool competition  
