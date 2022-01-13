@@ -1,5 +1,5 @@
 ---
-title: "Ackwoledgements"
+title: "Acknowledgements"
 ---
 
 # Organization
