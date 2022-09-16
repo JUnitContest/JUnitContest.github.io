@@ -4,18 +4,28 @@ title: "Acknowledgements"
 
 # Organization
 
+* 2022 10th contest: [Contest Committee](https://sbst22.github.io/tools/)
+  * [Fiorella Zampetti](https://scholar.google.com/citations?user=-qRba7AAAAAJ&hl=it) (Chair), University of Sannio, Benevento, Italy
+  * [Gunel Jahangirova](https://sites.google.com/view/guneljahangirova) (co-Chair), Software Institute - USI, Switzerland
+  * [Alessio Gambi](https://staff.fim.uni-passau.de/~gambi/), University of Passau, Germany
+  * [Vincenzo Riccio](https://search.usi.ch/en/people/39b5978277864981b53183b0c8e7660b/riccio-vincenzo), Software Institute - USI, Lugano, Switzerland
+* 2021 9th contest: [Contest Committee](https://sbst21.github.io/tools/)
+  * [Sebastiano Panichella](https://spanichella.github.io) (Chair), Zurich University of Applied Science (ZHAW), Switzerland
+  * [Fiorella Zampetti](https://scholar.google.com/citations?user=-qRba7AAAAAJ&hl=it) (co-Chair), University of Sannio, Benevento, Italy
+  * [Alessio Gambi](https://staff.fim.uni-passau.de/~gambi/), University of Passau, Germany
+  * [Vincenzo Riccio](https://search.usi.ch/en/people/39b5978277864981b53183b0c8e7660b/riccio-vincenzo), Software Institute - USI, Lugano, Switzerland
 * 2020 8th contest: [Contest Committee](https://sbst20.github.io/tools/)
-    * [Xavier Devroey](http://xdevroey.be) (Chair), Delft University of Technology, Netherlands
-    * [Sebastiano Panichella](https://spanichella.github.io) (co-Chair), Zurich University of Applied Science (ZHAW), Switzerland
-    * [Alessio Gambi](https://staff.fim.uni-passau.de/~gambi/) (co-Chair), University of Passau, Germany
+  * [Xavier Devroey](http://xdevroey.be) (Chair), Delft University of Technology, Netherlands
+  * [Sebastiano Panichella](https://spanichella.github.io) (co-Chair), Zurich University of Applied Science (ZHAW), Switzerland
+  * [Alessio Gambi](https://staff.fim.uni-passau.de/~gambi/) (co-Chair), University of Passau, Germany
 * 2019 7th contest: [Contest Committee](https://sbst19.github.io/tools/)
-    * Fitsum Kifetew (Chair), Fondazione Bruno Kessler
-    * [Xavier Devroey](http://xdevroey.be) (co-Chair), Delft University of Technology, Netherlands
-    * Urko Rueda Molina, Universitat Politècnica de València, Spain
+  * Fitsum Kifetew (Chair), Fondazione Bruno Kessler
+  * [Xavier Devroey](http://xdevroey.be) (co-Chair), Delft University of Technology, Netherlands
+  * Urko Rueda Molina, Universitat Politècnica de València, Spain
 * 2018 6th contest: [Contest Committee](http://software.imdea.org/sbst18/committees.html)
-    * Urko Rueda Molina (Chair), Universitat Politècnica de València
-    * Fitsum Kifetew (co-Chair), Fondazione Bruno Kessler
-    * Annibale Panichella, University of Luxembourg and Delft University of Technology
+  * Urko Rueda Molina (Chair), Universitat Politècnica de València
+  * Fitsum Kifetew (co-Chair), Fondazione Bruno Kessler
+  * Annibale Panichella, University of Luxembourg and Delft University of Technology
 * 2017 5th contest: Annibale Panichella and Urko Rueda
 * 2016 4th contest: Tanja E. J. Vos, Juan Galeotti, Urko Rueda and Rene Just
 * 2015 3rd contest: Tanja E. J. Vos and Urko Rueda
